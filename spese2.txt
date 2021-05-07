@@ -1,0 +1,4 @@
+23-05-2020;Viaggio;viaggio aereo;400
+28-07-2020;Alloggio;alloggio in hotel;1200
+24-09-2020;Vitto;ristorazione per una settimana;600
+28-09-2020;Altro;acquisto materiale;3000

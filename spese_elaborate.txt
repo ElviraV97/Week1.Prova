@@ -1,0 +1,4 @@
+23-05-2020;Viaggio;viaggio aereo;APPROVATA;Manager;400
+28-07-2020;Alloggio;alloggio in hotel;APPROVATA;CEO;1200
+24-09-2020;Vitto;ristorazione per una settimana;APPROVATA;OperationalManager;600
+28-09-2020;Altro;acquisto materiale;RESPINTA;-;-
